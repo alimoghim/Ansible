@@ -16,5 +16,3 @@
 4️⃣ Secure with Ansible Vault   
 5️⃣ Test Using Molecule, Lint, and Dry Run   
 6️⃣ Integrate Seamlessly into GitHub Actions / Jenkins Pipelines      
-
-#Ansible   #DevOps   #InfrastructureAsCode   #ConfigurationManagement   #Automation   #CI_CD   #CloudEngineering   #IaC   #DevSecOps   #OpenSourceTools
